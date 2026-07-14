@@ -49,6 +49,7 @@ Haneda has no direct JR trains — it's served only by the Keikyu Airport Line a
 | Ueno | Keisei Skyliner direct | ~45 min |
 
 Notes:
+- Terminal matters at both airports — which station/train you need can differ by terminal. See the "terminals & which station to use" sections in [airports.md](airports.md) before heading to the platform, especially for Narita T3 (LCC terminal, extra walk to the train station).
 - Limousine buses run from both airports to major hotels in each area — good option with heavy luggage, but slower than trains during traffic
 - N'EX and Skyliner both require a seat reservation/ticket, bookable online or at the airport
 - If choosing between areas mainly on airport convenience: Ueno/Asakusa favor Narita access, Ginza/Tokyo Station and Haneda pair well together
