@@ -12,7 +12,7 @@ Metro + Toei fares are separate from JR fares, and from each other — transferr
 ## Main systems
 Map: https://www.tokyometro.jp/station/pdf/202305/202305_number_en.pdf
 - **Keikyu Line** — private railway, not JR/Metro/Toei; main way to/from Haneda Airport (Airport Line, through-services onto the Toei Asakusa Line).
-- **JR Yamanote Line** — loop line connecting most major hubs (Shinjuku, Shibuya, Tokyo, Ueno, Ikebukuro, Shinagawa). The backbone for getting between areas.
+- **JR Yamanote Line** — loop line connecting most major hubs (Shinjuku, Shibuya, Tokyo, Ueno, Ikebukuro, Shinagawa). The backbone for getting between tourist areas.
 - **JR Chuo/Sobu Lines** — cut across the Yamanote loop (e.g., Shinjuku to Tokyo Station direct).
 - **Tokyo Metro** — 9 subway lines (Ginza, Marunouchi, Hibiya, Tozai, Chiyoda, Yurakucho, Hanzomon, Namboku, Fukutoshin).
 - **Toei Subway** — 4 more lines (Asakusa, Mita, Shinjuku, Oedo), run separately from Tokyo Metro.
