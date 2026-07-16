@@ -4,7 +4,7 @@ Tokyo's rail network is split across a few operators. Trains/subways generally r
 
 Metro + Toei fares are separate from JR fares, and from each other — transferring between systems mid-journey costs more than staying on one.
 
-## Getting a map
+## Map
 - Google Maps / Apple Maps handle Tokyo transit routing well (train times, platform, transfers) — probably the easiest day-to-day option.
 - Official Tokyo Metro app has an offline subway map + fare calculator.
 - Physical paper maps are free at station information counters if a fold-out visual helps.
